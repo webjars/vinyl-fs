@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>vinyl-fs</artifactId>
-    <version>0.3.7-SNAPSHOT</version>
+    <version>0.3.7</version>
     <name>vinyl-fs</name>
     <description>WebJar for vinyl-fs</description>
     <url>http://webjars.org</url>
@@ -34,7 +34,7 @@
         <developer>
             <id>micmro</id>
             <name>Michael Mrowetz</name>
-            <email></email>
+            <email />
         </developer>
     </developers>
 
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/vinyl-fs</url>
         <connection>scm:git:https://github.com/webjars/vinyl-fs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/vinyl-fs.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>vinyl-fs-0.3.7</tag>
     </scm>
 
     <dependencies>
